@@ -3,7 +3,7 @@ describe '#meal_choice' do
   def  (meal_choice)("meat")
   end
 
-def  it 'should allow you to set a meal' do
-    expect(meal_choice("vegan")).to eq("vegan")
+  it 'should allow you to set a meal' do
+  def  expect(meal_choice("vegan"),("vegan")
   end
 end
